@@ -1,29 +1,31 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: September 19, 2020
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+ **Today's Progress** Started out by reviewing ES6 functions
+                      Looked into the scope of both let and var in ES6 and 
+                      worked with arrow functions.
+                      Got a better understanding of  spread operators (...).
+**Thoughts**: I see JS everywhere
 
 
-### Day 1: June 27, Monday
+### Day 2: September 20, 2020
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: (: Had a look at Primitive vs Reference values in ES6 and  also got to play with the "For in and For of" loop.
+                      (: Do you style CSS inline? I'd probably only do that if the style change is miniscule or I want to store and use it as a variable.
+                      
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts**: I'm discovering things i missed in JS
+
+
+### Day 3: September 21, 2020
+
+**Today's Progress**:(: Created my first Component in React. 
+                      (: Created Passed and used multiple props.
+                          A quick question?
+                      (:  What's the difference between  "One" and "Two"
+
+**Thoughts** (:  What's the difference between  "One" and "Two". Getting a lil confused
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
